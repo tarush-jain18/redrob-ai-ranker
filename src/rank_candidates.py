@@ -62,8 +62,7 @@ for candidate in candidates[:100]:
     )
 
 results.sort(
-    key=lambda x: x[1],
-    reverse=True
+    key=lambda x: (-x[1], x[0])
 )
 
 print("\n" + "=" * 60)
