@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0071974,1,0.732506,"7.8 years relevant experience; Strong skills in Embeddings, Information Retrieval, Sentence Transformers; Open to work"
+CAND_0081846,2,0.701382,"6.7 years relevant experience; Strong skills in Embeddings, Information Retrieval, Machine Learning; Open to work"
+CAND_0077337,3,0.70072,"7.0 years relevant experience; Strong skills in Information Retrieval, Sentence Transformers, Pinecone; High recruiter response rate; Open to work"
+CAND_0000031,4,0.697042,"6.0 years relevant experience; Strong skills in Embeddings, Information Retrieval, Sentence Transformers; High recruiter response rate; Open to work"
+CAND_0002025,5,0.696811,"5.9 years relevant experience; Strong skills in Sentence Transformers, FAISS, Pinecone; Open to work"
+CAND_0029439,6,0.69355,"6.4 years relevant experience; Strong skills in Pinecone, Machine Learning, MLOps; Open to work"
+CAND_0098454,7,0.691466,"6.6 years relevant experience; Strong skills in Embeddings, Pinecone, MLOps; High recruiter response rate; Open to work"
+CAND_0053591,8,0.690603,"5.3 years relevant experience; Strong skills in Embeddings, Sentence Transformers, Milvus; High recruiter response rate; Open to work"
+CAND_0046525,9,0.690558,"6.1 years relevant experience; Strong skills in Information Retrieval, Sentence Transformers, Machine Learning; High recruiter response rate; Open to work"
+CAND_0041669,10,0.687589,"8.0 years relevant experience; Strong skills in Information Retrieval, FAISS, Milvus; Open to work"
+CAND_0011687,11,0.684823,"7.8 years relevant experience; Strong skills in Embeddings, FAISS, MLOps; High recruiter response rate; Open to work"
+CAND_0077285,12,0.684005,"5.5 years relevant experience; Strong skills in Embeddings, Information Retrieval, Sentence Transformers; Open to work"
+CAND_0008425,13,0.682127,"7.8 years relevant experience; Strong skills in Information Retrieval, Sentence Transformers, Hugging Face Transformers; Open to work"
+CAND_0024878,14,0.681622,"5.7 years relevant experience; Strong skills in Information Retrieval, MLOps; High recruiter response rate; Open to work"
+CAND_0007567,15,0.680652,"6.1 years relevant experience; Strong skills in Sentence Transformers, FAISS, MLOps; Open to work"
+CAND_0032919,16,0.679908,"7.0 years relevant experience; Strong skills in Embeddings, Information Retrieval, Sentence Transformers; Open to work"
+CAND_0020350,17,0.679777,"5.8 years relevant experience; Strong skills in Sentence Transformers, FAISS, MLOps; Open to work"
+CAND_0036184,18,0.679241,"6.0 years relevant experience; Strong skills in Embeddings, Sentence Transformers, FAISS; High recruiter response rate; Open to work"
+CAND_0058688,19,0.677772,"6.7 years relevant experience; Strong skills in Embeddings, Information Retrieval, Milvus; Open to work"
+CAND_0081686,20,0.677271,"6.0 years relevant experience; Strong skills in Embeddings, FAISS, Milvus; High recruiter response rate"
+CAND_0023458,21,0.677232,"5.0 years relevant experience; Strong skills in Sentence Transformers, FAISS, Hugging Face Transformers; Open to work"
+CAND_0044222,22,0.677104,7.7 years relevant experience; Strong skills in Hugging Face Transformers; Open to work
+CAND_0002120,23,0.677027,"6.5 years relevant experience; Strong skills in Embeddings, Information Retrieval, Pinecone; Open to work"
+CAND_0079387,24,0.676671,6.9 years relevant experience; Strong skills in Sentence Transformers; High recruiter response rate; Open to work
+CAND_0010541,25,0.675336,"6.2 years relevant experience; Strong skills in Pinecone, MLOps; Open to work"
+CAND_0073007,26,0.675318,"5.8 years relevant experience; Strong skills in Embeddings, FAISS, Milvus; High recruiter response rate; Open to work"
+CAND_0088025,27,0.673492,"8.6 years relevant experience; Strong skills in Pinecone, MLOps, Hugging Face Transformers; High recruiter response rate; Open to work"
+CAND_0055905,28,0.672763,"8.1 years relevant experience; Strong skills in Embeddings, Information Retrieval, Hugging Face Transformers; High recruiter response rate; Open to work"
+CAND_0052706,29,0.672224,"5.1 years relevant experience; Strong skills in Information Retrieval, Pinecone, MLOps; Open to work"
+CAND_0024620,30,0.671834,5.9 years relevant experience; Strong skills in Information Retrieval; Open to work
+CAND_0077498,31,0.671707,"5.4 years relevant experience; Strong skills in Embeddings, Sentence Transformers, Milvus; High recruiter response rate; Open to work"
+CAND_0046064,32,0.671589,8.9 years relevant experience; Strong skills in Pinecone; Open to work
+CAND_0062247,33,0.671283,"7.3 years relevant experience; Strong skills in Information Retrieval, Pinecone, Hugging Face Transformers; Open to work"
+CAND_0006567,34,0.671135,7.9 years relevant experience; Open to work
+CAND_0053695,35,0.670917,"5.8 years relevant experience; Strong skills in Embeddings, Sentence Transformers, Pinecone; Open to work"
+CAND_0050454,36,0.670635,6.8 years relevant experience; Strong skills in FAISS; Open to work
+CAND_0095528,37,0.670451,5.3 years relevant experience; Strong skills in MLOps; Open to work
+CAND_0083879,38,0.66945,"7.1 years relevant experience; Strong skills in Sentence Transformers, Milvus, Machine Learning; Open to work"
+CAND_0051466,39,0.669338,"5.3 years relevant experience; Strong skills in Information Retrieval, Milvus, Hugging Face Transformers; Open to work"
+CAND_0068351,40,0.66855,6.4 years relevant experience; Strong skills in Machine Learning; High recruiter response rate
+CAND_0001537,41,0.666979,"6.3 years relevant experience; Strong skills in Embeddings, Information Retrieval, Sentence Transformers; Open to work"
+CAND_0093912,42,0.66697,"5.3 years relevant experience; Strong skills in Embeddings, Milvus; Open to work"
+CAND_0043860,43,0.666439,6.1 years relevant experience; Strong skills in Information Retrieval; High recruiter response rate; Open to work
+CAND_0076163,44,0.665325,"6.9 years relevant experience; Strong skills in Sentence Transformers, MLOps; High recruiter response rate; Open to work"
+CAND_0072688,45,0.665324,6.9 years relevant experience; Strong skills in Milvus; High recruiter response rate; Open to work
+CAND_0025640,46,0.665192,"5.6 years relevant experience; Strong skills in Information Retrieval, FAISS; High recruiter response rate; Open to work"
+CAND_0059795,47,0.664968,"5.6 years relevant experience; Strong skills in Machine Learning, Hugging Face Transformers; Open to work"
+CAND_0088378,48,0.664688,"6.0 years relevant experience; Strong skills in Information Retrieval, Sentence Transformers, MLOps; Open to work"
+CAND_0098846,49,0.664666,"7.6 years relevant experience; Strong skills in Machine Learning, MLOps, Hugging Face Transformers; Open to work"
+CAND_0008486,50,0.663139,"7.9 years relevant experience; Strong skills in FAISS, Pinecone, Milvus; Open to work"
+CAND_0052682,51,0.662998,"6.6 years relevant experience; Strong skills in Embeddings, FAISS; High recruiter response rate; Open to work"
+CAND_0061257,52,0.662545,8.0 years relevant experience; Strong skills in Machine Learning; High recruiter response rate; Open to work
+CAND_0091254,53,0.662491,"5.2 years relevant experience; Strong skills in Machine Learning, MLOps; Open to work"
+CAND_0017960,54,0.662137,"7.7 years relevant experience; Strong skills in Information Retrieval, Machine Learning, Hugging Face Transformers; Open to work"
+CAND_0014063,55,0.662114,"5.4 years relevant experience; Strong skills in FAISS, Machine Learning, MLOps; Open to work"
+CAND_0010685,56,0.661082,6.7 years relevant experience; Strong skills in Information Retrieval; High recruiter response rate; Open to work
+CAND_0069905,57,0.660741,"6.6 years relevant experience; Strong skills in Sentence Transformers, MLOps, Hugging Face Transformers; Open to work"
+CAND_0073883,58,0.660556,"5.3 years relevant experience; Strong skills in FAISS, Hugging Face Transformers; High recruiter response rate; Open to work"
+CAND_0010257,59,0.66046,"6.5 years relevant experience; Strong skills in Milvus, Machine Learning; Open to work"
+CAND_0072652,60,0.660438,"7.1 years relevant experience; Strong skills in Embeddings, Information Retrieval, Sentence Transformers; Open to work"
+CAND_0072547,61,0.660083,"5.1 years relevant experience; Strong skills in Embeddings, Information Retrieval, Machine Learning; High recruiter response rate; Open to work"
+CAND_0072660,62,0.659338,"7.1 years relevant experience; Strong skills in Information Retrieval, FAISS; Open to work"
+CAND_0052370,63,0.659143,"7.4 years relevant experience; Strong skills in Embeddings, Information Retrieval, Sentence Transformers; Open to work"
+CAND_0058575,64,0.659129,"5.8 years relevant experience; Strong skills in Sentence Transformers, Pinecone, Machine Learning; Open to work"
+CAND_0079064,65,0.658707,5.2 years relevant experience; Strong skills in Pinecone; High recruiter response rate; Open to work
+CAND_0064326,66,0.658375,7.6 years relevant experience; Strong skills in Milvus; High recruiter response rate; Open to work
+CAND_0066999,67,0.658126,"5.9 years relevant experience; Strong skills in Embeddings, Information Retrieval, FAISS; Open to work"
+CAND_0004402,68,0.657908,6.0 years relevant experience; Strong skills in Sentence Transformers; High recruiter response rate; Open to work
+CAND_0057736,69,0.657682,"6.2 years relevant experience; Strong skills in Embeddings, Information Retrieval, Hugging Face Transformers; High recruiter response rate; Open to work"
+CAND_0063622,70,0.657311,"5.2 years relevant experience; Strong skills in Machine Learning, MLOps; High recruiter response rate; Open to work"
+CAND_0078492,71,0.657233,"5.1 years relevant experience; Strong skills in FAISS, Machine Learning, Hugging Face Transformers; Open to work"
+CAND_0044855,72,0.656914,"6.6 years relevant experience; Strong skills in Embeddings, Information Retrieval, Pinecone"
+CAND_0033179,73,0.656415,"6.9 years relevant experience; Strong skills in Information Retrieval, MLOps, Hugging Face Transformers; High recruiter response rate; Open to work"
+CAND_0070514,74,0.656323,"5.5 years relevant experience; Strong skills in FAISS, Pinecone, MLOps; Open to work"
+CAND_0075491,75,0.656286,6.0 years relevant experience; Strong skills in Embeddings; Open to work
+CAND_0014440,76,0.655738,"6.4 years relevant experience; Strong skills in FAISS, Milvus, Machine Learning; Open to work"
+CAND_0005260,77,0.65543,"5.2 years relevant experience; Strong skills in Embeddings, Information Retrieval, MLOps; High recruiter response rate"
+CAND_0027061,78,0.654909,"7.3 years relevant experience; Strong skills in Embeddings, Information Retrieval, Sentence Transformers; Open to work"
+CAND_0056356,79,0.654615,"6.2 years relevant experience; Strong skills in Embeddings, Information Retrieval, Sentence Transformers; Open to work"
+CAND_0052335,80,0.654601,"6.4 years relevant experience; Strong skills in Sentence Transformers, Machine Learning; Open to work"
+CAND_0007978,81,0.654341,"7.6 years relevant experience; Strong skills in Embeddings, Information Retrieval, Sentence Transformers; Open to work"
+CAND_0033991,82,0.654166,"7.5 years relevant experience; Strong skills in Embeddings, Information Retrieval, Sentence Transformers; Open to work"
+CAND_0085805,83,0.653947,"8.5 years relevant experience; Strong skills in Information Retrieval, Sentence Transformers, FAISS; Open to work"
+CAND_0042700,84,0.653586,"5.5 years relevant experience; Strong skills in FAISS, Machine Learning, MLOps; Open to work"
+CAND_0012837,85,0.653434,6.4 years relevant experience; Strong skills in MLOps; High recruiter response rate; Open to work
+CAND_0016317,86,0.653144,"6.5 years relevant experience; Strong skills in Embeddings, Information Retrieval, Sentence Transformers; Open to work"
+CAND_0013393,87,0.653092,"5.3 years relevant experience; Strong skills in Embeddings, Sentence Transformers, Pinecone; Open to work"
+CAND_0080766,88,0.652627,"8.8 years relevant experience; Strong skills in Milvus, MLOps"
+CAND_0087630,89,0.652079,"7.2 years relevant experience; Strong skills in Embeddings, Sentence Transformers, Hugging Face Transformers"
+CAND_0073874,90,0.652016,"6.5 years relevant experience; Strong skills in Information Retrieval, Sentence Transformers, FAISS; Open to work"
+CAND_0017053,91,0.651952,"8.6 years relevant experience; Strong skills in Embeddings, Information Retrieval, Sentence Transformers; Open to work"
+CAND_0067866,92,0.651525,6.4 years relevant experience; Strong skills in Embeddings; Open to work
+CAND_0054829,93,0.651353,"5.7 years relevant experience; Strong skills in Pinecone, Machine Learning; Open to work"
+CAND_0083852,94,0.651231,"6.0 years relevant experience; Strong skills in Information Retrieval, Sentence Transformers, Pinecone; High recruiter response rate; Open to work"
+CAND_0029971,95,0.650923,"5.4 years relevant experience; Strong skills in Embeddings, Pinecone, Machine Learning; Open to work"
+CAND_0020781,96,0.650698,"7.5 years relevant experience; Strong skills in Information Retrieval, Sentence Transformers, Pinecone; Open to work"
+CAND_0022870,97,0.65055,"6.7 years relevant experience; Strong skills in Embeddings, Information Retrieval; Open to work"
+CAND_0029751,98,0.650412,"7.0 years relevant experience; Strong skills in Sentence Transformers, Pinecone, Hugging Face Transformers; Open to work"
+CAND_0043637,99,0.650193,5.5 years relevant experience; Strong skills in Milvus; High recruiter response rate; Open to work
+CAND_0018094,100,0.650061,"5.2 years relevant experience; Strong skills in Information Retrieval, Pinecone; Open to work"

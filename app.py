@@ -63,7 +63,7 @@ if st.button("Rank Candidates", use_container_width=True):
         hide_index=True
     )
 
-    st.subheader("⭐ Best Match")
+    st.subheader("Best Match")
 
     st.info(
         """

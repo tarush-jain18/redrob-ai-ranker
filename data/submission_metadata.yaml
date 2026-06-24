@@ -1,0 +1,71 @@
+team_name: "T-Cups"  
+
+primary_contact:
+  name: "Tarush Jain"
+  email: "tarushjain16@gmail.com"   
+  phone: "+91-7683066375"        
+
+team_members:
+  - name: "Tarush Jain"
+    email: "tarushjain16@gmail.com"
+    role: "AI/ML Engineer"          
+  - name: "Tanishka Singh"
+    email: "tans.workplace13622@gmail.com"
+    role: "Data Engineer"
+
+github_repo: "https://github.com/tarush-jain18/redrob-ai-ranker"
+
+
+sandbox_link: "https://redrob-ai-ranker-tcups.streamlit.app/"
+
+reproduce_command: "python3 src/generate_submission.py && cp output/submission.csv ./submission.csv"
+
+compute:
+  platform: "MacBook M5 Air"                    
+  cpu_cores: 10                                 
+  ram_gb: 16                                    
+  python_version: "3.9.6"                      
+  os: "macOS 26.5.1"                              
+  uses_gpu_for_inference: false                
+  has_network_during_ranking: false             
+  pre_computation_required: false               
+  pre_computation_time_minutes: 0               
+
+ai_tools_used:
+  - "Chatgpt"        
+  - "GitHub Copilot"  
+
+
+ai_usage_summary: |
+  Used ChatGPT for debugging, code review, architecture discussions,
+  optimization suggestions, Git/GitHub troubleshooting, Streamlit deployment,
+  and implementation guidance. All ranking logic, execution, and submission
+  generation were performed locally by the team. No external AI APIs were used
+  during candidate ranking or inference.
+
+
+methodology_summary: |
+  We built an AI-powered candidate ranking system that matches job
+  descriptions with candidate profiles using semantic search and hybrid
+  scoring. Candidate profiles were converted into structured text and
+  encoded using the all-MiniLM-L6-v2 Sentence Transformer model. The job
+  description was embedded in the same vector space, and cosine similarity
+  was used to measure relevance.
+
+  To improve ranking quality, semantic similarity was combined with
+  experience, skill relevance, recruiter engagement signals, and hiring
+  readiness indicators. The system also generates concise reasoning for
+  each recommendation, improving transparency and explainability.
+
+  The final solution processed 100,000 candidate profiles on CPU,
+  generated the top 100 ranked candidates, passed the official validation
+  pipeline, and was deployed with a Streamlit-based sandbox for
+  demonstration.
+
+
+declarations:
+  read_submission_spec: true        
+  code_is_original_work: true       
+  no_collusion: true               
+  honeypot_check_done: false       
+  reproduction_tested: true         
